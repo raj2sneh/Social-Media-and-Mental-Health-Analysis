@@ -1,2 +1,3 @@
 # Social-Media-and-Mental-Health-Analysis
-This project aims to study the impact of social media on the mental health of its users. The tools used to complete this project include Python, Pandas, Excel, and PowerBI.
+*Project Overview*
+This project focuses on analyzing the impact of social media usage on the mental health of individuals. The dataset contains responses from 481 participants, capturing their social media habits (Facebook, Instagram, Snapchat, TikTok, Pinterest, etc.) along with different aspects of mental health such as:
