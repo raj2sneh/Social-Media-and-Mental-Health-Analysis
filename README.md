@@ -14,7 +14,7 @@ The objective of this project is to discover meaningful insights into how social
 
 *Dataset Details*
 - Sample Size - 481
-- Featurs Include:
+- Featurs Include:   
         - Social media platforms used.    
         - Frequency/intensity of usage.     
         - Mental health indicators (distraction, restlessness, lack of concentration, etc.)
@@ -25,9 +25,9 @@ The objective of this project is to discover meaningful insights into how social
 - Identify which aspects of mental health are most influenced by excessive social media usage.
 - Provide actionable insights for healthier digital habits.
 
-*Tools & Libraries*
-- Programming Language: Python.
-- Power BI.
+*Tools & Libraries*   
+- Programming Language: Python. 
+- Power BI. 
 - Libraries Used: Pandas, NumPy.
 
 *Analysis & Insights*
