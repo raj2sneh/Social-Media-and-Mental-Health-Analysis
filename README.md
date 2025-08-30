@@ -15,8 +15,8 @@ The objective of this project is to discover meaningful insights into how social
 *Dataset Details*
 - Sample Size - 481
 - Featurs Include:
-        - Social media platforms used.
-        - Frequency/intensity of usage.
+        - Social media platforms used.    
+        - Frequency/intensity of usage.     
         - Mental health indicators (distraction, restlessness, lack of concentration, etc.)
 
 *Objectives*
