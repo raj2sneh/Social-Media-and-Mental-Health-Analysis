@@ -35,8 +35,6 @@ The objective of this project is to discover meaningful insights into how social
  The project will focus on:  
  - Distribution of social media usage across different platforms.
  - Visualization of mental health issues among heavy vs light users.
- - Correlation heatmaps between usage patterns & mental health indicators.
- - Possible prediction models for detecting risk of mental health issues based on usage patterns.
 
 *Expected Outcomes*
 - Clear understanding of the relationship between social media and mental health.
